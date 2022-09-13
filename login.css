@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    top: 35%;
+    left: 38%;
+    position:fixed;
+}
+.card{
+background-color: rgb(50, 50, 50);
+border-radius: 10px;
+}
